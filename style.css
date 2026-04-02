@@ -63,7 +63,7 @@ body {
   border-radius: var(--radius);
   overflow: hidden;
   background: #ddd;
-  aspect-ratio: 4/3;
+  aspect-ratio: 1/1;
   box-shadow:
     0 4px 6px rgba(0,0,0,.04),
     0 20px 40px rgba(0,0,0,.12);
